@@ -5,9 +5,9 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <a href="https://github.com/ZorkJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zorkjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorkjunior&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/RubevaldoJunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubevaldojunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubevaldojunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
