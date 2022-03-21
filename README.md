@@ -1,6 +1,6 @@
 ##Olá! Eu sou o Rubevaldo Junior =D
 
-- 🔭 Hoje sou estudante na Universidade Federal de Goiás em busca do meu primeiro estágio.
+- 🔭 Hoje sou estudante na Universidade Federal de Goiás e estou em busca do meu primeiro estágio.
 - 🌱 Estudando Java e Ruby
 - 😄 Pronomes: ele/dele
 
