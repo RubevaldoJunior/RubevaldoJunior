@@ -3,7 +3,7 @@
 - 🔭 Hoje sou estudante na Universidade Federal de Goiás e estou em busca do meu primeiro estágio.
 - 🌱 Estudando Java e Ruby
 - 😄 Pronomes: ele/dele
-- 🏫 Ciência da Computação
+- 💻 Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/RubevaldoJunior">
