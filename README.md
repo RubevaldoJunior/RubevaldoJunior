@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Rubevaldo Junior =D
 
 - 🔭 Hoje sou estudante na Universidade Federal de Goiás e estou em busca do meu primeiro estágio.
-- 🌱 Estudando Java e Ruby
+- 🌱 Estudando C# e HTML/CSS e Javascript
 - 😄 Pronomes: ele/dele
 - 💻 Ciência da Computação
 
